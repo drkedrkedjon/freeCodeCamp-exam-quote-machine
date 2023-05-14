@@ -1,1 +1,1 @@
-# freeCodeCamp exam. Quote MAchine
+# freeCodeCamp exam. Quote Machine
